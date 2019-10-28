@@ -61,4 +61,4 @@ for sensor in json_data_sensors['air']['sensors']:
         else:
             print("Wrong value:")
     
-    print("###########################")
+    print("###############################")
